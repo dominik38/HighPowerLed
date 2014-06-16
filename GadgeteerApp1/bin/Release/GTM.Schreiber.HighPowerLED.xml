@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.Schreiber.HighPowerLED</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.Schreiber.HighPowerLed">
+            <summary>
+            A HighPowerLed module for Microsoft .NET Gadgeteer
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.Schreiber.HighPowerLed.#ctor(System.Int32)">
+            <summary></summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.Schreiber.HighPowerLed.Dim(Gadgeteer.Modules.Schreiber.LedNumber,System.Int32)">
+            <summary>
+            Dims the LED according to the percentage value
+            <param name="led"> The LED number you want to dim.</param>
+            <param name="percentage"> The new percentage value that you want to set the LED to.</param>
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.Schreiber.HighPowerLed.On(Gadgeteer.Modules.Schreiber.LedNumber)">
+            <summary>
+            Turns the LED on
+            <param name="led"> The LED you want to turn on.</param>
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.Schreiber.HighPowerLed.Off(Gadgeteer.Modules.Schreiber.LedNumber)">
+            <summary>
+            Turns the LED off
+            <param name="led"> The LED you want to turn off.</param>
+            </summary>
+        </member>
+    </members>
+</doc>

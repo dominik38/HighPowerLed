@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighPowerLED_41", "HighPowerLED\HighPowerLED_41\HighPowerLED_41.csproj", "{E75271C8-55ED-4B10-8C17-A9E6A6904A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighPowerLED_42", "HighPowerLED\HighPowerLED_42\HighPowerLED_42.csproj", "{B1C40B17-F89B-4C3F-97C2-AE81CBD80DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighPowerLED", "HighPowerLED\HighPowerLED\HighPowerLED.csproj", "{81C30BB4-9F54-40F9-88F3-DB72EC036C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GadgeteerApp1", "GadgeteerApp1\GadgeteerApp1.csproj", "{517E010F-D652-42DF-9929-0E9BF784719D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E75271C8-55ED-4B10-8C17-A9E6A6904A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75271C8-55ED-4B10-8C17-A9E6A6904A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75271C8-55ED-4B10-8C17-A9E6A6904A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75271C8-55ED-4B10-8C17-A9E6A6904A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C40B17-F89B-4C3F-97C2-AE81CBD80DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C40B17-F89B-4C3F-97C2-AE81CBD80DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C40B17-F89B-4C3F-97C2-AE81CBD80DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C40B17-F89B-4C3F-97C2-AE81CBD80DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C30BB4-9F54-40F9-88F3-DB72EC036C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C30BB4-9F54-40F9-88F3-DB72EC036C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C30BB4-9F54-40F9-88F3-DB72EC036C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C30BB4-9F54-40F9-88F3-DB72EC036C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517E010F-D652-42DF-9929-0E9BF784719D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517E010F-D652-42DF-9929-0E9BF784719D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517E010F-D652-42DF-9929-0E9BF784719D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{517E010F-D652-42DF-9929-0E9BF784719D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517E010F-D652-42DF-9929-0E9BF784719D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517E010F-D652-42DF-9929-0E9BF784719D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
